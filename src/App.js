@@ -1,6 +1,6 @@
 import "./styles.css";
 import React, { useState } from "react";
-import { ThemeComponent } from "./ThemeComponent";
+import ThemeComponent from "./ThemeComponent";
 
 export const ThemeContext = React.createContext();
 
